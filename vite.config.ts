@@ -9,6 +9,7 @@ export default defineConfig({
       input: {
         main: resolve(import.meta.dirname, 'index.html'),
         creationSiteInternet: resolve(import.meta.dirname, 'creation-site-internet/index.html'),
+        applicationMetier: resolve(import.meta.dirname, 'application-metier/index.html'),
       },
     },
   },
