@@ -12,6 +12,7 @@ export default defineConfig({
         applicationMetier: resolve(import.meta.dirname, 'application-metier/index.html'),
         applicationMobile: resolve(import.meta.dirname, 'application-mobile/index.html'),
         realisation72Heures: resolve(import.meta.dirname, 'realisations/72-heures/index.html'),
+        realisationCompagnieBelizama: resolve(import.meta.dirname, 'realisations/compagnie-belizama/index.html'),
       },
     },
   },
