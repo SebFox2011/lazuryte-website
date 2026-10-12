@@ -5,7 +5,7 @@ import accueil72Heures from './assets/72heures/Accueil.jpeg';
 import besoins72Heures from './assets/72heures/Besoins.jpeg';
 import stock72Heures from './assets/72heures/Stock.jpeg';
 import accueilBelizama from './assets/belizama/Accueil.png';
-import actualitesBelizama from './assets/belizama/Actualités.png';
+import actualitesBelizama from './assets/belizama/Actualites.png';
 import spectaclesBelizama from './assets/belizama/Spectacles.png';
 import './styles.css';
 
