@@ -1,0 +1,11 @@
+{
+  "name": "Lazuryte",
+  "short_name": "Lazuryte",
+  "icons": [
+    {
+      "src": "/lazuryte_icone_developpeur_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
